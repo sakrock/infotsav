@@ -1,2 +1,0 @@
-# infotsav
-webkriti project
